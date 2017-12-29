@@ -18,7 +18,7 @@ allprojects {
 
 ```
 dependencies {
-	       compile 'com.github.yourkkc:ykrefresh:v1.0.0'
+	       compile 'com.github.yourkkc:ykrefresh:v1.0.3'
 	}
 ```
 
@@ -38,7 +38,7 @@ maven添加
 <dependency>
 	    <groupId>com.github.yourkkc</groupId>
 	    <artifactId>ykrefresh</artifactId>
-	    <version>v1.0.0</version>
+	    <version>v1.0.3</version>
 </dependency>
 
 ```
